@@ -20,13 +20,13 @@ Carga horária: 40 horas
 Ano Letivo: 2023
 
 
-PLANO DE ENSINO
+                                                   PLANO DE ENSINO
 
 EMENTA
 
 Ementa: Conceitos e aplicações iniciais. HTML, atributos. CSS Cascading Style Sheet. Técnicas de estilização e Bibliotecas, Bootstrap.
 
-OBJETIVOS
+                                                      OBJETIVOS
 
 Compreender basicamente a arquitetura da web.
 
@@ -47,15 +47,15 @@ Ter conhecimento de bibliotecas de estilização.
 História da Web; A internet como plataforma; Objeto DOM Tags e metatags; Markup; Doctype; Charset; Sintaxe HTML; tags básicas; Conhecendo a estrutura de uma página Web; Sintaxe CSS; Conhecendo e utilizando uma folha de estilo em cascata (CSS); Conceito tableless; Editores de texto HTML; Criação de páginas web; Colocando uma página online.
 
 
-PRÁTICA
+                                                     PRÁTICA
 
 Aulas expositivas e aplicação do conteúdo em exemplos práticos nos laboratórios de informática.
 
-ESTRATÉGIAS DE AVALIAÇÃO
+                                              ESTRATÉGIAS DE AVALIAÇÃO
 
 Avaliação pela participação nos exemplos desenvolvidos em aulas, através dos trabalhos e avaliações realizados em grupo ou individualmente.
 
-ESTRATÉGIAS METODOLÓGICAS
+                                               ESTRATÉGIAS METODOLÓGICAS
 
 Aulas teóricas discutidas em sala de aula.
 
@@ -64,7 +64,7 @@ Atividades práticas em laboratório.
 Desenvolvimento de exemplos práticos.
 
 
-BIBLIOGRAFIA
+                                                    BIBLIOGRAFIA
 
 Bibliografia básica:
 
